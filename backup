@@ -1,0 +1,37 @@
+<div class="row mt-5">
+            <div class="col-md-2 me-5"><div class="card phone" style="width: 18rem;">
+              <img src="./moto.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Motorola Edge 50 Pro 5G</p>
+                <span>From ₹12,499*</span>
+              </div>
+            </div></div>
+            <div class="col-md-2 me-5"><div class="card phone" style="width: 18rem;">
+              <img src="./vivo.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Vivo T3X 5G</p>
+                <span>From ₹27,999*</span>
+              </div>
+            </div></div>
+            <div class="col-md-2 me-5"><div class="card phone" style="width: 18rem;">
+              <img src="./poco.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Poco M6 Pro 5G.</p>
+                <span>From ₹8,999*</span>
+              </div>
+            </div></div>
+            <div class="col-md-2 me-5"><div class="card phone" style="width: 18rem;">
+              <img src="./galaxy.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">Galaxy F15 5G</p>
+                <span>From ₹10,499*</span>
+              </div>
+            </div></div>
+            <div class="col-md-2 me-5"><div class="card phone" style="width: 18rem;">
+              <img src="./realme.webp" class="card-img-top" alt="...">
+              <div class="card-body">
+                <p class="card-text">realme P1 5G</p>
+                <span>From ₹14,499*</span>
+              </div>
+            </div></div>
+          </div>

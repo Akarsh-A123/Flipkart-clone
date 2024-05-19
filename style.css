@@ -17,6 +17,7 @@ body{
 .srch input[type=search]{
     width:950px;
     padding:10px;
+    padding-left: 50px;
     border-radius: 10px;
     font-size: 27px;
     font-weight: 400;
@@ -24,6 +25,10 @@ body{
     vertical-align: middle;
     background-color: rgba(237, 244, 245, 0.589);
     border: 0px;
+    background-image: url(./icons8-search-50.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-x: 1%;
 }
 .content{
     background-color:#F1F3F6;
@@ -99,11 +104,12 @@ body{
  bottom:220px
 }
 .smartphone{
-    width:85%;
+    width:80%;
     background-color:white;
     margin-left: 25px;
     position: relative;   
-    bottom:220px
+    bottom:220px;
+    height:600px;
 }
 .smartphone h2{
     margin-left: 30px;
@@ -202,4 +208,16 @@ body{
     width:100%;
     background-color: rgb(112, 137, 170);   
     height: 1px;
+}
+.add{
+    position: absolute;
+    top:5px;
+    right:-390px;
+    background-color:white;
+    height:590px;
+}
+.add img{
+    height:90%;
+    width:100%;
+    margin-top: 30px;
 }
